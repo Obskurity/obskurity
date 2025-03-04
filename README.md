@@ -2,8 +2,6 @@
 
 I'm a Canadian software developer with experience in full-stack development, and cloud solutions.
 
----
-
 ## 🚀 My Tech Stack
 
 ### Languages
