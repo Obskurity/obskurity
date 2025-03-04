@@ -1,7 +1,7 @@
 # Hello, I'm Arthur 👋
 
 ## About Me
-A canadian software developer with experience in full-stack development, and cloud solutions.
+I'm a Canadian software developer with experience in full-stack development, and cloud solutions.
 
 ---
 
