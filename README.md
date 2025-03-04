@@ -1,4 +1,4 @@
-# Hello, I'm Arthur 👋
+# Hi, I'm Arthur 👋
 
 I'm a Canadian software developer with experience in full-stack development, and cloud solutions.
 
