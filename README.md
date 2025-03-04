@@ -1,6 +1,6 @@
 # Hi, I'm Arthur 👋
 
-I'm a Canadian software developer with experience in full-stack development, and cloud solutions.
+I'm a software developer in Canada, interested and experienced in full-stack development.
 
 ## 🚀 My Tech Stack
 
